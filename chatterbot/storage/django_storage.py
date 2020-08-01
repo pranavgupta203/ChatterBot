@@ -4,7 +4,7 @@ from chatterbot import constants
 
 class DjangoStorageAdapter(StorageAdapter):
     """
-    Storage adapter that allows ChatterBot to interact with
+    Storage adapter that allows hatterBot to interact with
     Django storage backends.
     """
 
